@@ -6,7 +6,12 @@
 
 The __requests__ module is used to gather bar and offers data from the [ChamonixHackathon2015 API](https://chamonix-hackathon-2015.herokuapp.com/).
 
-## Known issues:
+## Installation:
+1. In Pythonista, open a new, empty script.
+2. Paste the contents of `burgers_and_beer.py` into the Editor window.
+3. Press the run button `▶` at the top right of the Editor.
+
+## Known [issues](https://github.com/ChamGeeks/HackathonPythonista2015/issues):
 1. The app runs only in landscape mode
 2. The app was built for the iPad form factor and might need adjustment for iPhones
 3. Downloading the images of all seven bars causes a long startup delay. Images should be cached after the first download.
