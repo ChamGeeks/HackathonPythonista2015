@@ -1,8 +1,8 @@
 # [HackathonPythonista2015](https://github.com/ChamGeeks/ChamonixHackathon2015)
 
 [burgers_and_beer.py](https://github.com/ChamGeeks/HackathonPythonista2015/blob/master/burgers_and_beer.py) is a single file iOS app written entirely on an iPad in Python 2.7 using the [Pythonista](http://omz-software.com/pythonista) for iOS Integrated Development Environment.  The app uses [requests](http://python-requests.org) and the Pythonista [console](http://omz-software.com/pythonista/docs/ios/console.html) and [ui](http://omz-software.com/pythonista/docs/ios/ui.html) modules to create two user interfaces:
-- __BarsView__ which displays graphic buttons for seven bars in Chamonix, France
-- __BarView__ which displays the photo, map, and table of food and drink offers for one bar
+- [BarsView](screenshots/BarsView.jpg) which displays graphic buttons for seven bars in Chamonix, France
+- [BarView](screenshots/BarView.jpg) which displays the photo, map, and table of food and drink offers for one bar
 
 The __requests__ module is used to gather bar and offers data from the [ChamonixHackathon2015 API](https://chamonix-hackathon-2015.herokuapp.com/).
 
